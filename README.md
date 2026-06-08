@@ -49,8 +49,6 @@
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilsBernard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8b9be8&icon_color=8b9be8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilsBernard&layout=compact&theme=tokyonight&hide_border=true&title_color=8b9be8" height="165" />
   <img src="https://streak-stats.demolab.com?user=FilsBernard&theme=tokyonight&hide_border=true&ring=8b9be8&fire=8b9be8&currStreakLabel=8b9be8" />
 </div>
 ---
