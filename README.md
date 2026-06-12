@@ -11,7 +11,7 @@
 - 🎓 Computer Science student at TU Clausthal, Germany
 - 🌱 Currently learning: HTML · CSS · JavaScript · React · Node.js
 - 🎯 Goal: become a Full-Stack Developer and land a Werkstudent SWE position
-- 🌍 Languages: French (native) · German (B2) · English (professional)
+- 🌍 Languages: French (native) · German (C1) · English (professional)
 
 ---
 
